@@ -38,7 +38,7 @@ https://github.com/fdk11111/Caltech-101-/blob/master/output.png
 - 无过拟合现象，验证损失持续下降
 
 ### 4.2 学习率影响
-https://github.com/fdk11111/Caltech-101-/blob/master/learning rate.png
+https://github.com/fdk11111/Caltech-101-/blob/master/learning_rate.png
 
 **分析**：
 - 学习率0.001时获得最佳性能（86.86%）
