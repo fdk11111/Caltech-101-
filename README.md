@@ -29,8 +29,7 @@
 ## 4. 实验结果
 
 ### 4.1 训练过程分析
-![训练损失曲线](loss_curves.png)
-![验证准确率曲线](accuracy_curve.png)
+https://github.com/fdk11111/Caltech-101-/blob/master/output.png
 
 **关键观察**：
 - 模型在10个epoch后基本收敛
